@@ -1,5 +1,9 @@
 <RCC>
     <qresource prefix="/file">
         <file>resource/file/GUI/rfid-reader.log</file>
+        <file>resource/file/database.txt</file>
+    </qresource>
+    <qresource prefix="/pic">
+        <file>resource/pic/background.png</file>
     </qresource>
 </RCC>
